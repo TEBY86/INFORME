@@ -1,0 +1,12 @@
+{
+  "name": "formulario-ventas",
+  "version": "1.0.0",
+  "description": "Formulario de ventas versátil",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'No hay script de inicio necesario para un sitio estático.'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
