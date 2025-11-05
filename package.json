@@ -2,11 +2,11 @@
   "name": "formulario-ventas",
   "version": "1.0.0",
   "description": "Formulario de ventas versátil",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
-    "start": "echo 'No hay script de inicio necesario para un sitio estático.'"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
